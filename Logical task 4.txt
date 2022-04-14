@@ -1,0 +1,10 @@
+Performance:
+First of all, I would inspect the cable for marking. Acording to the marking it has different
+Max. Resolution Refresh Rate and Max. Transmission Rate. Otherwise i would connect my laptop to
+tv or monitor with this cable to find out. Another way to do it would be to get specific testers
+which could tell you the specs.
+Usability:
+Cable plug should be relevant for new tech so the user would not have to buy adapter. Also would be
+nice to have soft structure allowing the user to connect his equipment even in hard-to-reach places.
+Security:
+I would check what insulation layer the cable has, how much it transmits signals in the state of operation.
